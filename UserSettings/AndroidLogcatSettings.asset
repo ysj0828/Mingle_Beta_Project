@@ -1,0 +1,169 @@
+{
+    "m_SelectedDeviceId": "R3CN80JA76H",
+    "m_SelectedPackage": {
+        "deviceId": "R3CN80JA76H",
+        "name": "com.DefaultCompany.Unity_Mingle",
+        "processId": 20711,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "R3CN80JA76H",
+            "name": "com.sec.android.app.launcher",
+            "processId": 3234,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CN80JA76H",
+            "name": "com.DefaultCompany.Unity_Mingle",
+            "processId": 30848,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CN80JA76H",
+            "name": "com.DefaultCompany.Unity_Mingle",
+            "processId": 31365,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CN80JA76H",
+            "name": "com.DefaultCompany.Unity_Mingle",
+            "processId": 4967,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CN80JA76H",
+            "name": "com.DefaultCompany.Unity_Mingle",
+            "processId": 20309,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CN80JA76H",
+            "name": "com.DefaultCompany.Unity_Mingle",
+            "processId": 20711,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CT31XQXZP",
+            "name": "com.DefaultCompany.Unity_Mingle",
+            "processId": 19699,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CT42656SM",
+            "name": "com.DefaultCompany.Unity_Mingle",
+            "processId": 23330,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CT336ZDJZ",
+            "name": "com.DefaultCompany.Unity_Mingle",
+            "processId": 701,
+            "exited": true
+        },
+        {
+            "deviceId": "R5CT336ZDJZ",
+            "name": "com.sec.android.app.launcher",
+            "processId": 4155,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CT336ZDJZ",
+            "name": "com.DefaultCompany.Unity_Mingle",
+            "processId": 6615,
+            "exited": true
+        },
+        {
+            "deviceId": "R5CT336ZDJZ",
+            "name": "com.DefaultCompany.Unity_Mingle",
+            "processId": 9377,
+            "exited": true
+        },
+        {
+            "deviceId": "R5CT336ZDJZ",
+            "name": "com.DefaultCompany.Unity_Mingle",
+            "processId": 13409,
+            "exited": true
+        },
+        {
+            "deviceId": "R5CT336ZDJZ",
+            "name": "com.DefaultCompany.Unity_Mingle",
+            "processId": 15386,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CT336ZDJZ",
+            "name": "com.DefaultCompany.Unity_Mingle",
+            "processId": 27960,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    }
+}
