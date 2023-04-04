@@ -12,4 +12,5 @@ Mecanim Animation System을 활용
 
 같은 이모티콘이어도 여러 애니메이션 중 랜덤으로 애니메이션을 재생해야 하기 때문에 BlendTree를 활용
 
-![2023-04-04 15-38-35](https://user-images.githubusercontent.com/63217600/229710372-7bd9701c-169e-4558-8432-84fe8898c9e2.gif)
+![Screen Recording 2023-04-04 at 4 23 59 PM](https://user-images.githubusercontent.com/63217600/229719332-226b7bdf-2299-49bf-af3f-4c8e90540e9d.gif)
+
