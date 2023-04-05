@@ -16,3 +16,13 @@ Mecanim Animation System을 활용
 
 ![Screen Recording 2023-04-04 at 4 23 59 PM](https://user-images.githubusercontent.com/63217600/229719332-226b7bdf-2299-49bf-af3f-4c8e90540e9d.gif)
 
+### 캐릭터 이동
+
+걷기 / 뛰기
+
+![Screen Recording 2023-04-04 at 4 33 57 PM-3](https://user-images.githubusercontent.com/63217600/229948766-906925e2-8f7d-497f-9a4d-fa909676e2c9.gif)
+
+점프
+
+![Screen-Recording-2023-04-04-at-4-2](https://user-images.githubusercontent.com/63217600/229948549-cc6bed2e-e357-4663-9e12-9d2cef878c7e.gif)
+
