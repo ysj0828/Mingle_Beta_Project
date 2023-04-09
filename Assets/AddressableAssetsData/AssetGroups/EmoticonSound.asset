@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: EmoticonSound
+  m_EditorClassIdentifier: 
+  m_GroupName: EmoticonSound
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e97f0327b99b84793978028a52c2b164
+  m_SerializeEntries:
+  - m_GUID: 2553fa4af7cdb4c32b77f318c4993f76
+    m_Address: S01_S_E_3D_WhatsUp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a74a18babe954206b643b349a597eb7
+    m_Address: S02_S_E_3D_ThumbUp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 412605a6644dd4948a7c23541b080fe8
+    m_Address: S03_S_E_3D_Bravo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 013c829a3128a4b82929553f88b6da0d
+    m_Address: S04_S_E_3D_OK
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23a2cfb054b17462fa9fcef8e437c637
+    m_Address: S05_S_E_3D_Cat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2745f4eba96b645188749eb876a4da1a
+    m_Address: S06_S_E_3D_CatHeart
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce3122b89249b420d877d5c9f9218dbd
+    m_Address: S07_S_E_3D_Heart
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 588597966573e4a2492861b540dfadd5
+    m_Address: S08_S_E_3D_Upset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d138b45fdcaa439398376f84e587abc
+    m_Address: S09_S_E_3D_BHeart_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6665ce7ad55884f7cb8d7b686ab1353d
+    m_Address: S09_S_E_3D_BHeart_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c6ecfcbec05ed4d8c8fc03bf7ee364fd
+    m_Address: S09_S_E_3D_BHeart_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49b80682daaf647b39ec6789d6c6a1dc
+    m_Address: S09_S_E_3D_BHeart_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 145d8504da4384fb781231388b475dd5
+    m_Address: S09_S_E_3D_BHeart_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0ba9c2a7f47c541439b22d0b3c2681ab
+    m_Address: S10_S_E_3D_Hi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9ab7d1e0db493408aae13c014d0186df
+    m_Address: S11_S_E_3D_Melong
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e45e7b245bd71451d87f7db140ee04fe
+    m_Address: S12_S_E_3D_KHeart
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 93c645fe0993e478e9649344c6d6b39e
+    m_Address: S13_S_E_3D_Money
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56ae8f204b9f84f1a900c64b438af76e
+    m_Address: S14_S_E_3D_Dance
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c9f5c834a386646e0b3cc5ef0f344cc3
+    m_Address: S15_S_E_3D_Hungry
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 69fdf409bc77044f4a8d47cc8156c1bf
+    m_Address: S16_S_E_3D_Full
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a169d1050ea7b4ca7b26aff88c8e838e
+    m_Address: S17_S_E_3D_Go
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd5b66616f47146ac9e3829c6165a5e4
+    m_Address: S18_S_E_3D_Happy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c15bd9994e3e0473abf6dcefa708ecb4
+    m_Address: S19_S_E_3D_FHappy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c0e0d66b75ee34e93a98312963fdaf2a
+    m_Address: S20_S_E_3D_Fire
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c559e2449b1a741159dbd060fc7bb88f
+    m_Address: S21_S_E_3D_Angry
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 15371c2dd1e9148f7bdcb67fc1b406d3
+    m_Address: S22_S_E_3D_FAngry
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8747c001791f84344a9f159d903d4bc1
+    m_Address: S23_S_E_3D_Question
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc6e12e023d3944029a22a73b7aa459e
+    m_Address: S24_S_E_3D_Laugh
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abf48cc8b2cfc40eba0813df98b752b7
+    m_Address: S25_S_E_3D_FLaugh
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 821233a47e80b43219f6ffab735b5c47
+    m_Address: S26_S_E_3D_Sad
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0bf5c16b789244bcea034cdcd48b4681
+    m_Address: S27_S_E_3D_ComeHere
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ec4cbe7e6da149189b1f640cc68ad1a
+    m_Address: S28_S_E_3D_Attention
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e78edb08a4b744ad965be15777745e3
+    m_Address: S29_S_E_3D_Mattention
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e7b50b4b14ca544c2b2ddd90fba5b675
+    m_Address: S30_S_E_3D_Fighting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 81dcc15f7de7b47d59dd263705b67250
+    m_Address: S31_S_E_3D_Cgrt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e6119008b9ea3465598bcfe9fba71574
+    m_Address: S32_S_E_3D_MCgrt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f0ab14ebdb794a22bb103f3fcbf2717
+    m_Address: S33_S_E_3D_Music
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 02a57f35830ec460f94e39e0ed2dbc6c
+    m_Address: S34_S_E_3D_No
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c206822a81ed64043b69f515b4798142
+    m_Address: S35_S_E_3D_MNo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c03b8e8244f1f4ad78f03bf6ce55885c
+    m_Address: S36_S_E_3D_Goodbye
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed8177264e4ca4f7d81fae5038ddc94b
+    m_Address: S37_S_E_3D_Zzz
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68a4da8cdce244d0f86dfee261969f5b
+    m_Address: S38_S_E_3D_MZzz
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ded06aa9e0b844f21893150f6be85259
+    m_Address: S39_S_E_3D_Cool
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bc9c8f19ea1c64b1d99555c23b779a67, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5d9c26837c71a4a0fa551cdcb80e2778, type: 2}
+    - {fileID: 11400000, guid: 57d695e4d3c89444b832cd5f1f574803, type: 2}

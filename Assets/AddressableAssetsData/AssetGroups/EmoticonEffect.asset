@@ -1,0 +1,325 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: EmoticonEffect
+  m_EditorClassIdentifier: 
+  m_GroupName: EmoticonEffect
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 16beccb2d1c5f4526bc7a146a6dc52f3
+  m_SerializeEntries:
+  - m_GUID: f14973f7de4b17b4291766113226c3b4
+    m_Address: C_E_Angry_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 712f04abf4228b445822956558e46e68
+    m_Address: C_E_Angry_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 549ea27ac9cdefd419e314be84ea76a4
+    m_Address: C_E_Dance_99
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63db6579c5234cf49b48fc4d60dd49d2
+    m_Address: C_E_Fire_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f50f559eaf1b8c498af57e399083685
+    m_Address: C_E_Hi_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e571b67795b1499895ed2e6bfb51867
+    m_Address: C_E_Hungry_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 849fc39a39e809741a40431789cfb11f
+    m_Address: C_E_Melong_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c0bb81a593711645a8caf89a6a3a2be
+    m_Address: C_E_OK_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c2002a2f89eaf948990793786f6fed9
+    m_Address: C_E_WhatsUp_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d63506e8c2aa85d4eaffa46b20d91f32
+    m_Address: C_E_MZzz_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 797bbb4481d1a16449471c4e12a07f3d
+    m_Address: C_E_Attention_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3366a9b60d09d9b488519d8e9353aa0a
+    m_Address: C_E_Goodbye_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c796dc04f7200ce4c9d15f6d7153e147
+    m_Address: C_E_Cat_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e7a5d380df77f94e9a0e32facd8fc07
+    m_Address: C_E_FAngry_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 114a033c8dd8e3549bc713c48435bc5b
+    m_Address: C_E_FHappy_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 311cc72f8741fe5418d0e7052e96f34c
+    m_Address: C_E_Fighting_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fa309b5457a5dd4990bccf1dfb0f3ba
+    m_Address: C_E_Full_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3795dd33870de7f40bd77f73da05c9a5
+    m_Address: C_E_CatHeart_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab8400901877fbc47992715e6329baf1
+    m_Address: C_E_KHeart_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 182d6f1c95db4dd448449da9811f79f8
+    m_Address: C_E_KHeart_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73eabe264a865e84babfb0fa411d9832
+    m_Address: C_E_KHeart_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b585d35a609b76a408447a5870d71b69
+    m_Address: C_E_MCgrt_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c92b6a7c9400bd244b6b31cc5d3e34f3
+    m_Address: C_E_Money_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddc20d10b02ec434a8b581dfee706211
+    m_Address: C_E_Sad_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb9218bd89b7de84183912ef53805c9f
+    m_Address: C_E_Sad_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7e53818f12f35649951446629901afe
+    m_Address: C_E_Sad_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f20992a5d6252a14bbe6ccf0c22190d8
+    m_Address: C_E_ThumbUp_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d080d093eff4684ab65e3248d49c611
+    m_Address: C_E_ThumbUp_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 666305c5ad5091141b68cba5e7c611f4
+    m_Address: C_E_Cool_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6b1e3abda588354f94df3b787bdf7d8
+    m_Address: C_E_Upset_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 018b135412ed7714ea53a914ccc104c6
+    m_Address: C_E_Upset_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d9a7eebeb886a444b96c57baaa04c58
+    m_Address: C_E_ThumbUp_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0dc04a42fd29ee34c80ad3f5c7f3ecbd
+    m_Address: C_E_QM_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 477b39e0d8d1a21498b2d6186c810aae
+    m_Address: C_E_OK_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cd54b2e189db2846ba98cd5eefc0049
+    m_Address: C_E_No_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99a9a2b459cefe743b4a219485733f67
+    m_Address: C_E_Music_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2ee3613c7b5443188be1a20ffbf8064
+    m_Address: C_E_Money_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca3a99b13b88b5b408e016e91838a0dd
+    m_Address: C_E_Money_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0f56cb5e11709f4389d717b6315120b
+    m_Address: C_E_MNo_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b68ec7cb00a6564a9d17851e47cc80d
+    m_Address: 'C_E_Hungry_02 '
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02f7772e421458144ba4c42d81045f26
+    m_Address: C_E_Heart_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 833af0d24c1bcaa4ebfa01734aa55d12
+    m_Address: C_E_Go_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d74f672120d1ca044a625879ee143c53
+    m_Address: C_E_Fighting_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b73f17f36171dce4db987d04803a5ff3
+    m_Address: C_E_FHappy_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f0966fa992fc514495676fb17f44fbd
+    m_Address: C_E_Cgrt_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0926c04a8f0b7ac4ea5f20f74a752546
+    m_Address: C_E_Bravo_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5abd3c9b59fe604194de87fc35be117
+    m_Address: C_E_Attention_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ced8251fd7601d746b0c588334e0b69c
+    m_Address: C_E_Melong_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ea991813e16c8e41abec3f10f1c097a
+    m_Address: C_E_Laugh_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff3c3ae1f24600c40ab9774ef1f767e5
+    m_Address: C_E_Hungry_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a87a3183fe4ce354c8c9a442530efee2
+    m_Address: C_E_Full_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36fc1984a7bf11245960fb9cfdbf3b23
+    m_Address: C_E_FAngry_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee27fa99b4807b14e89af5e2df1062c1
+    m_Address: C_E_Zzz_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5415c7e1613c6c4198e68c7985f63a1
+    m_Address: C_E_ComeHere_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2b9ace9ef5fbbe47a68455519fd0b0e
+    m_Address: C_E_Attention_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22094bb82100c4cf5a60e22db4b04ea7
+    m_Address: C_E_Angry_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d899f52361bbd894096d237ad130a1b6
+    m_Address: C_E_FLaugh_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9b65644bb68fd545a6738e9d1fe2d83
+    m_Address: C_E_MAttention_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7c895807788b95439ac80f9dcafff2e
+    m_Address: C_E_BHeart_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b2a7db8523e3fc47b5cf70bbccc5295
+    m_Address: C_E_WhatsUp_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bc9c8f19ea1c64b1d99555c23b779a67, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1b8f5f06473684eebaa99678c59f1aaf, type: 2}
+    - {fileID: 11400000, guid: d296e374be09746588f59236fe73550e, type: 2}

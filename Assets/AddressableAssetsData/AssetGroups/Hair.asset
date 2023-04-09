@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Hair
+  m_EditorClassIdentifier: 
+  m_GroupName: Hair
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 922b01f583964498f983a24496e65df9
+  m_SerializeEntries:
+  - m_GUID: 4e6472f95613f4d14bd81f422b82f0f7
+    m_Address: G_Hair_08_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 277cf0daf874049e0a173ae956946dd1
+    m_Address: G_Hair_04_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8fbc8c4fa0be24c03b067861eacd727d
+    m_Address: G_Hair_12_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17a073f0bf1c64c5196d2a7e9f7a79be
+    m_Address: G_Hair_07_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dffae7fc5c5ff4605a49a2e63ffb4ad9
+    m_Address: G_Hair_02_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 45706ee6ecaae4e1499424e4da7f5fdc
+    m_Address: G_Hair_05_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 78ac0349c607f4fe189e3f637eccd776
+    m_Address: G_Hair_06_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c433632b58b374439827898d9b7d1e31
+    m_Address: G_Hair_01_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24cc41389a71742a4b3fdb7363c8a3ff
+    m_Address: G_Hair_03_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bc9c8f19ea1c64b1d99555c23b779a67, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 717876792089a4f749383b5e01b5f493, type: 2}
+    - {fileID: 11400000, guid: 58ccd305ff924497da6ad94ed52d5bb8, type: 2}

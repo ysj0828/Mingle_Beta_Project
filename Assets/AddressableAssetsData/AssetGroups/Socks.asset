@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Socks
+  m_EditorClassIdentifier: 
+  m_GroupName: Socks
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 940bfafdb84fc4a4fbec140e038e0530
+  m_SerializeEntries:
+  - m_GUID: 8e152446493ec47428d8dbd5d19cb1f9
+    m_Address: G_Socks_01_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f1a930f90fdc5493e906a3f03a8966ea
+    m_Address: G_Socks_03_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f78495a62d974bd29adb38021c8d050
+    m_Address: G_Socks_02_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a9a6453099224153bb665ea6c112cba
+    m_Address: G_Socks_04_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bc9c8f19ea1c64b1d99555c23b779a67, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 72f2c9e528cec47f1a4b8cd78e636b26, type: 2}
+    - {fileID: 11400000, guid: bb33457212e0e42e8b12861a7b6e2b84, type: 2}

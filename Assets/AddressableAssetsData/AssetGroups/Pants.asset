@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Pants
+  m_EditorClassIdentifier: 
+  m_GroupName: Pants
+  m_Data:
+    m_SerializedData: []
+  m_GUID: df1417c3758c24beaa5776f851b733da
+  m_SerializeEntries:
+  - m_GUID: 0dd16ef6befa44d7b8e14f26294a9488
+    m_Address: G_Pants_03_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09b79ae69b54948e19b0770df10c9780
+    m_Address: G_Pants_04_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76e242bcb302d486aa33a59f3b37e08d
+    m_Address: G_Pants_01_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7e7443a74c1b421f8e61b1640a31e08
+    m_Address: G_Pants_01_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a5cbabc408ec4c618c02dd2414b3c76
+    m_Address: G_Pants_05_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d21db1be62354d958ce2177263ea074
+    m_Address: G_Pants_02_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bff8842085b8c4735bc7547afa914fa8
+    m_Address: G_Pants_01_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9924c76cf8264a0ab56025b2005c41e
+    m_Address: G_Pants_02_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7fa5e1c61ae7440791a6fca8d20fc2f
+    m_Address: G_Pants_04_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94f991bb9f0e641b3908a5a1f35af2af
+    m_Address: G_Pants_03_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36db93579b28643da89bc1350bb308bc
+    m_Address: G_Pants_03_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e01d989753a474d15a9b6f91b3429fa8
+    m_Address: G_Pants_00_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9de549e064504d8e872783b371de514
+    m_Address: G_Pants_05_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f428b5f6f9b334b9cba57214eb9011ca
+    m_Address: G_Pants_05_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e11f73d28ee7545eba98cb7d4a558546
+    m_Address: G_Pants_06_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8602a57e1283f488ba7958732cee573c
+    m_Address: G_Pants_06_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bc9c8f19ea1c64b1d99555c23b779a67, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 534a711f5b0f04bb582ed577b6608582, type: 2}
+    - {fileID: 11400000, guid: a89ff30b8bcda4aeea699b99983b5826, type: 2}

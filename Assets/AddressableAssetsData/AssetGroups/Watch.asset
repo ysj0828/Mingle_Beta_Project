@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Watch
+  m_EditorClassIdentifier: 
+  m_GroupName: Watch
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0504ecc790fd043c980ff294ad4d7373
+  m_SerializeEntries:
+  - m_GUID: 7248276438ec44dfd8ad8adef52c2188
+    m_Address: G_Watch_01_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 317cf3f04014c4e22ac7e60ac296105b
+    m_Address: G_Watch_03_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db7c4fd2d37354aa3b29e31bde2d4c9e
+    m_Address: G_Watch_04_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d662fcba19b1d4803af19bddeae61d81
+    m_Address: G_Watch_02_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bc9c8f19ea1c64b1d99555c23b779a67, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2bf39cca63fd6423d9a73bf582502eb4, type: 2}
+    - {fileID: 11400000, guid: 10f857a8332e34c59806990092fca6ea, type: 2}

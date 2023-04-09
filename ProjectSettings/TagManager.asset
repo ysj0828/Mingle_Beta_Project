@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Module
+  - hair
+  - body
+  - socks
+  - bottom
+  - face
+  - PlayerAvatar
+  - top
+  - shoes
+  - onepiece
+  - watch
+  - bag
+  - glasses
+  - beard
+  - earring
+  - Walkable
+  - ObjectSelectable
+  - ObjectSelected
+  - ObjectInteractable
+  - Selectable
+  - Undefined
+  - ObjectNonSelectable
+  - EmoHead
+  - EmoEye
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Avatar
+  - Water
+  - UI
+  - FX
+  - Ground
+  - OutArea
+  - Walkable
+  - ObjectBound
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Bag
+  m_EditorClassIdentifier: 
+  m_GroupName: Bag
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 72ae40a987cf1402e92254498db2171c
+  m_SerializeEntries:
+  - m_GUID: be39dbd8c1060472e95b5297961f7566
+    m_Address: G_Bag_Cross_01_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ab7b488c7ca041b89b3ac775f0f65ec
+    m_Address: G_Bag_Back_05_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d6f5ed53599b43f4922da1e8a170bb6
+    m_Address: G_Bag_Back_04_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50af7490e99de4d6ea27e25569d0492a
+    m_Address: G_Bag_Back_04_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51e5441e8157b443f878077c7b54772c
+    m_Address: G_Bag_Back_03_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f674700525814d098c2a6faa49f64a4
+    m_Address: G_Bag_Back_02_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5240d82a503014da3b73576e061eb197
+    m_Address: G_Bag_Back_01_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b85f47081fab54d5e806b15bea400b4e
+    m_Address: G_Bag_Hand_01_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54dd847e3743142f781577b8cc3bda73
+    m_Address: G_Bag_Hand_01_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bc9c8f19ea1c64b1d99555c23b779a67, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 74a6b5819e95e479dac26fb47666f00d, type: 2}
+    - {fileID: 11400000, guid: 41f2be082ad064c7cae1ec7ba74b9591, type: 2}

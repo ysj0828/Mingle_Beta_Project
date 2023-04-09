@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: RoomObjects
+  m_EditorClassIdentifier: 
+  m_GroupName: RoomObjects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 66498f310e67840968dbd5a7903f106e
+  m_SerializeEntries:
+  - m_GUID: bf136add6e8ca8e4293487fb341cae14
+    m_Address: Default_30_camera
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee854d9569bc2e543bdec0a89b0998f1
+    m_Address: Default_30_bulletinboard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26c46f414569e4fe3950c216349c3606
+    m_Address: display30
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7e2b3eb4413c2949bf89a967a023c7e
+    m_Address: Default_30_Billboard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37bfb4a77a14a34449edabb7fef05551
+    m_Address: Default_20_photoframe
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9250b5e14cf69cf48aed22aef0f5b32b
+    m_Address: Default_20_panel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 864c5e52f620a4c4bbbe354f09fb0138
+    m_Address: Default_20_mic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 182b547fe85ca34488ca6af734258cef
+    m_Address: Default_20_giftspot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 870527e9922c14248a7848958f131912
+    m_Address: Default_20_camera_desk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2b16fdaa8d4b494fbe5f2807fcac9b6
+    m_Address: Default_30_mic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a61ca80c3b994bce92d9537636793d7
+    m_Address: display20
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d52d36ee092da34ba6a7488915e0e02
+    m_Address: Default_20_camera
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c48475e5210156c42816d38f4b6f7c25
+    m_Address: Default_30_giftspot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac87c73064a32314b9ab81bf533f721e
+    m_Address: Default_20_bulletinboard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6d42bfc06dd69f409f4439dcc7809f0
+    m_Address: Default_20_Billboard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2137f1e307db8ac4da7a920ad51c6f9e
+    m_Address: Default_10_photoframe
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1053125b2a0b0944cafb10793a91650c
+    m_Address: Default_10_panel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd6594955462d43409ac63a06817aa0d
+    m_Address: Default_10_mic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e624e351d3df24fb98ac5a31702f5eb4
+    m_Address: display10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4fcd43ddec622c46a070384fca5e1e3
+    m_Address: Default_10_giftspot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7280895164516be4fa38a233978198fe
+    m_Address: Default_10_camera_desk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6972c5d3f6a816b4bb1d2a0c6415aa80
+    m_Address: Default_30_camera_desk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad7ed2e3d69bc4046b2491b5261cb653
+    m_Address: Default_10_camera
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72bf1dc02da49c54390fa128d158e43d
+    m_Address: Default_10_bulletinboard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c910233f032e5946ad35d9bdea2119f
+    m_Address: Default_30_panel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a17c759475f84f469065ac0bb05d9ca
+    m_Address: Default_30_photoframe
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51efc8efd6c420e40a47d681e4c4cd8a
+    m_Address: Default_10_Billboard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bc9c8f19ea1c64b1d99555c23b779a67, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5be82414c30544301b0714c4f1735dd0, type: 2}
+    - {fileID: 11400000, guid: 6a0e9b9dd59a4470c91ccd56ed0cc7b1, type: 2}

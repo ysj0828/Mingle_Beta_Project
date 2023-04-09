@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shoes
+  m_EditorClassIdentifier: 
+  m_GroupName: Shoes
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7f8d10c8f22da478e84f957caa342ef8
+  m_SerializeEntries:
+  - m_GUID: 1246ca435e1c14a9abfe8e2984eec299
+    m_Address: G_Shoes_06_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0d5b862b687a42bbbeb60aa2f855822
+    m_Address: G_Shoes_06_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 255958feea6cf4308b5fc48a3c4c46ee
+    m_Address: G_Shoes_07_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a119d8d7a92b44036bdddd83eb5a4663
+    m_Address: G_Shoes_03_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 878bcb1099649473aa32165f95912a85
+    m_Address: G_Shoes_07_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7985cee4f2c654456b08c9e04c8414d8
+    m_Address: G_Shoes_07_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cbdc64bb501940bcbc3cd28c713c22e
+    m_Address: G_Shoes_06_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfe2357532cbf4304aa01cea771034b1
+    m_Address: G_Shoes_06_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71b03d89d2fb049149c95503dc3f4db4
+    m_Address: G_Shoes_02_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cf55b71c521e44aca56eb58c25295ae
+    m_Address: G_Shoes_04_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 360e9be487e2f450d98771f872dad31b
+    m_Address: G_Shoes_03_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d2104aa7de894ba496b38791f21fc20
+    m_Address: G_Shoes_03_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ddec096406014b8ca2d2b9af799d6f8
+    m_Address: G_Shoes_07_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bac5b999fe90244df82f8cc688219c87
+    m_Address: G_Shoes_07_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69746b7f5702a435f910cea09fbbc1a0
+    m_Address: G_Shoes_06_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be599a4b6a46048bf8ad73d059566f7a
+    m_Address: G_Shoes_03_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 563200bb1b1bb4ea4b587de070a1afc4
+    m_Address: G_Shoes_07_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0087d73ee8f84a01a089c4271fe8e72
+    m_Address: G_Shoes_02_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f35b6c0ab398c4c958d20efd03e15012
+    m_Address: G_Shoes_03_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f176d1154e47441baaadbcdafbd25e2
+    m_Address: G_Shoes_05_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d44af296f994041d8926c91369d5ab70
+    m_Address: G_Shoes_04_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 665c441136c8848b29fb582749724569
+    m_Address: G_Shoes_07_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd475d4b3cf144b88acfda2dd25e2b1f
+    m_Address: G_Shoes_04_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c712feaac5f541428878343b63f8bb6
+    m_Address: G_Shoes_07_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63f11b71e8bfe454eab064afe56d4c1e
+    m_Address: G_Shoes_07_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3adecefaffffe4bc3b87c0e5a90aedcd
+    m_Address: G_Shoes_01_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60d924a92f971422fbc2296dd771535b
+    m_Address: G_Shoes_07_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00bf16d61092d4abc8d42ef7f74e5d25
+    m_Address: G_Shoes_02_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be63cd3086e214a35a40990aaa6cd4da
+    m_Address: G_Shoes_04_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab3437d52eb9a41239df431a3000ded2
+    m_Address: G_Shoes_07_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f61a4bec87ea54185add0102106e3543
+    m_Address: G_Shoes_08_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9705b5aabe97d41bb8768d95899dbf3e
+    m_Address: G_Shoes_09_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bc9c8f19ea1c64b1d99555c23b779a67, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3b472003fccb64f0dadcc7c70a516e5b, type: 2}
+    - {fileID: 11400000, guid: 833c6af02c9414e0eaa24e6a8eca1a42, type: 2}

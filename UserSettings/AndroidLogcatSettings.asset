@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "R3CN80JA76H",
         "name": "com.DefaultCompany.Unity_Mingle",
-        "processId": 20711,
+        "processId": 30850,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -11,37 +11,37 @@
         {
             "deviceId": "R3CN80JA76H",
             "name": "com.sec.android.app.launcher",
-            "processId": 3234,
+            "processId": 6186,
             "exited": false
         },
         {
             "deviceId": "R3CN80JA76H",
             "name": "com.DefaultCompany.Unity_Mingle",
-            "processId": 30848,
+            "processId": 23326,
             "exited": true
         },
         {
             "deviceId": "R3CN80JA76H",
             "name": "com.DefaultCompany.Unity_Mingle",
-            "processId": 31365,
+            "processId": 29380,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CN80JA76H",
+            "name": "com.samsung.android.calendar",
+            "processId": 21069,
             "exited": true
         },
         {
             "deviceId": "R3CN80JA76H",
             "name": "com.DefaultCompany.Unity_Mingle",
-            "processId": 4967,
+            "processId": 3246,
             "exited": true
         },
         {
             "deviceId": "R3CN80JA76H",
             "name": "com.DefaultCompany.Unity_Mingle",
-            "processId": 20309,
-            "exited": true
-        },
-        {
-            "deviceId": "R3CN80JA76H",
-            "name": "com.DefaultCompany.Unity_Mingle",
-            "processId": 20711,
+            "processId": 30850,
             "exited": false
         },
         {

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shirts
+  m_EditorClassIdentifier: 
+  m_GroupName: Shirts
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2fce73be9df184c039962b3d009c9372
+  m_SerializeEntries:
+  - m_GUID: 4a10e232340424dce85fa6828caad160
+    m_Address: G_Shirts_05_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ad7749654c4e4d5fb5d314d22873d8d
+    m_Address: G_Shirts_04_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cb5d29404de59420ab47ad8dfeae2686
+    m_Address: G_Shirts_02_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1c8c3c72de8f4f518f09bf955225e9e
+    m_Address: G_Shirts_06_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d83151a816185486d800b2dce3e15dde
+    m_Address: G_Shirts_01_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2062b480ff51e45d8b863eafd0782001
+    m_Address: G_Shirts_07_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 355eac8b0a7a3446784de37ddfe3cbc7
+    m_Address: G_Shirts_02_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4f01b0ec60f854887872a102ab80ab07
+    m_Address: G_Shirts_05_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 928530db9cd2841e4b43f6af1d31c047
+    m_Address: G_Shirts_03_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb1fd2028379c402bae3b11c7ba0b59f
+    m_Address: G_Shirts_01_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b021f5bf307d4f9582f6eaef275d6fd
+    m_Address: G_Shirts_00_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 75293057d219343388fdbd202afa5070
+    m_Address: G_Shirts_07_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f045bd90d0d8045a696a5b6f740d90b2
+    m_Address: G_Shirts_07_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe1b69561383740ad9c44330521fe9ab
+    m_Address: G_Shirts_07_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b35b2cfe7aa54b55b92e361413188d6
+    m_Address: G_Shirts_07_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3dfd7b7cda1684bc5a9518c9c4cfbc81
+    m_Address: G_Shirts_08_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bc9c8f19ea1c64b1d99555c23b779a67, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8514bd84c64984c17840349b9414d89b, type: 2}
+    - {fileID: 11400000, guid: 2768b9c173fd440f8a16d512208afa53, type: 2}

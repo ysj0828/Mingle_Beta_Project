@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: RoomFloor
+  m_EditorClassIdentifier: 
+  m_GroupName: RoomFloor
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 87265a6ea910c48e79c45fc8bc4e7c59
+  m_SerializeEntries:
+  - m_GUID: 81ef760cc1661af449437397133ca078
+    m_Address: Default_20_stage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 971144782116b694b8b431707ffad818
+    m_Address: Default_10_stage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 02e911a1dfacf714eab56787c3ff2660
+    m_Address: Default_30_stage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd4f5bd99aa771b4b9d51a011073c175
+    m_Address: Free_02_stage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abfc91652ba8ada4385475300e551e0f
+    m_Address: Free_03_stage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c25576de328605c4bbe69481bdee8d19
+    m_Address: Free_04_stage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d72663c677e5ce14f8b64cf601107622
+    m_Address: Free_05_blocks
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b22fb581c5be9da4cb6c08c4fcb8c301
+    m_Address: Free_05_legoG_00
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e74b52e8e685d954eaf1c5e8860a1947
+    m_Address: Free_05_legoG_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d04a829da72f9e4c9470d0b07873cdf
+    m_Address: Free_05_legoroad_00
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bc9c8f19ea1c64b1d99555c23b779a67, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: faa49494f33234ef39d0a420c8894ca4, type: 2}
+    - {fileID: 11400000, guid: 677f5b69f63a5408dae6be84fd08470b, type: 2}
