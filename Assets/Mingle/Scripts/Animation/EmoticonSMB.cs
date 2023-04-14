@@ -7,7 +7,6 @@ using System;
 public class EmoticonSMB : StateMachineBehaviour
 // public class EmoticonSMB : SMBInheritTest
 {
-    private AvatarRPC _rpc = null;
     private PlayerActionManager _actionManager = null;
     // private static PlayerActionManager _staticActionManager = null;
     private bool alreadyTriggered = false;
@@ -20,7 +19,6 @@ public class EmoticonSMB : StateMachineBehaviour
 
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        if (_rpc == null) _rpc = animator.gameObject.GetComponent<AvatarRPC>();
         if (_actionManager == null)
         {
             _actionManager = animator.gameObject.GetComponent<PlayerActionManager>();
