@@ -26,3 +26,26 @@ Mecanim Animation System을 활용
 
 ![Screen-Recording-2023-04-04-at-4-2](https://user-images.githubusercontent.com/63217600/229948549-cc6bed2e-e357-4663-9e12-9d2cef878c7e.gif)
 
+
+
+## 카메라 조작
+
+1 손가락 드래그
+본인 캐릭터를 중심으로 회전
+TODO - 동영상 찍어서 올리기
+
+2 손가락 드래그
+캐릭터 포커스 해제 후 카메라를 상하좌우로 이동
+TODO - 동영상 찍어서 올리기
+
+
+## 포톤
+
+### 캐릭터 위치, 모션, 커스터마이징 동기화
+RPC를 활용하여 동기화 진행
+TODO - 동영상 찍어서 
+
+### Resources 폴더 밖에서 PhotonNetwork.Instantiate() 함수를 사용할 수 있게 구현
+TODO - 코드 설명
+
+### 
