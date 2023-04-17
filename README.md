@@ -49,7 +49,13 @@ Mecanim Animation System을 활용
 
 ### 캐릭터 위치, 모션, 커스터마이징 동기화
 RPC를 활용하여 동기화 진행
-TODO - 동영상 찍어서 
+
+캐릭터 이동 동기화 \
+![Screen_Recording_20230417_113600_Unity_Mingle](https://user-images.githubusercontent.com/63217600/232365714-ff8c59d3-d428-4e7f-a075-eb4a05366c63.gif)
+
+캐릭터 이모티콘 애니메이션 동기화 \
+![Screen_Recording_20230417_113759_Unity_Mingle](https://user-images.githubusercontent.com/63217600/232365722-d25c2569-7c71-4e97-977f-0c2117f43747.gif)
+
 
 ### Resources 폴더 밖에서 PhotonNetwork.Instantiate() 함수를 사용할 수 있게 구현
 TODO - 코드 설명
