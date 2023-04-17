@@ -2,6 +2,9 @@
 밍글 베타 프로젝트\
 사용한 유니티 버전 : 2021.3.14f1 LTS
 
+베타 버전은 아래 링크를 통해 테스트 할 수 있습니다.
+https://linktr.ee/mingle.official
+
 # 담당 업무
 
 담당 업무 스크립트는 Mingle_Beta_Project/Assets/Mingle/Scripts/Animation 혹은 Camera 혹은 Manager/PlayerActionManager.cs, PlayerManager.cs, PhotonManager.cs 에서 확인 할 수 있습니다.
@@ -72,6 +75,7 @@ Resources 폴더에 넣거나 Custom IPunPrefabPool을 생성하라고 한다.
 
 ![Screen Recording 2023-04-17 at 12 29 18 PM](https://user-images.githubusercontent.com/63217600/232381859-93eae7cd-ee07-4b8c-99f6-dfa593cdf56c.gif)
 
+밍글 프로젝트에선 개념은 같으나
 
 
 ### 
