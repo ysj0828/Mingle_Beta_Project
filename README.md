@@ -58,7 +58,7 @@ RPC를 활용하여 동기화 진행
 
 
 ### Resources 폴더 밖에서 PhotonNetwork.Instantiate() 함수를 사용할 수 있게 구현
-TODO - 코드 설명
+검색해도 Resources 폴더 밖에 있는 에셋을 생성하는 법이 안나와서 포톤 내부 코드 분석
 
 아래와 같이 Assets/Test 폴더 안에 "CubePrefab" 을 PhotonNetwork.Instantiate() 함수로 생성하려하면 오류가 나온다.
 Resources 폴더에 넣거나 Custom IPunPrefabPool을 생성하라고 한다.
