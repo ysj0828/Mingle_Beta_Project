@@ -34,13 +34,15 @@ Mecanim Animation System을 활용
 
 ## 카메라 조작
 
-1 손가락 드래그
+1. 1 손가락 드래그
 본인 캐릭터를 중심으로 회전
-TODO - 동영상 찍어서 올리기
 
-2 손가락 드래그
+2. 2 손가락 드래그
 캐릭터 포커스 해제 후 카메라를 상하좌우로 이동
-TODO - 동영상 찍어서 올리기
+
+2-1. 2 손가락 드래그 후 1 손가락 드래그 : 다시 캐릭터에 포커스 & 캐릭터 센터에 맞추기
+
+![Screen_Recording_20230417_110813_Unity_Mingle-2](https://user-images.githubusercontent.com/63217600/232361965-0477ccce-b16f-4235-86fd-e7b370da0721.gif)
 
 
 ## 포톤
