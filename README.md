@@ -60,4 +60,18 @@ RPC를 활용하여 동기화 진행
 ### Resources 폴더 밖에서 PhotonNetwork.Instantiate() 함수를 사용할 수 있게 구현
 TODO - 코드 설명
 
+아래와 같이 Assets/Test 폴더 안에 "CubePrefab" 을 PhotonNetwork.Instantiate() 함수로 생성하려하면 오류가 나온다.
+Resources 폴더에 넣거나 Custom IPunPrefabPool을 생성하라고 한다.
+<img width="1751" alt="Screenshot 2023-04-17 at 11 56 08 AM" src="https://user-images.githubusercontent.com/63217600/232367135-440a753e-92fe-4c99-83d9-15061574cbf3.png">
+
+
+
+아래 방식처럼 DefaultPool 타입의 변수 생성 후 직접 프리팹을 등록해주면 PhotonNetwork.Instantiate() 함수를 사용할 수 있다.
+
+<img width="1554" alt="Screenshot 2023-04-17 at 1 54 24 PM" src="https://user-images.githubusercontent.com/63217600/232381938-f3afc3d5-212d-499d-877a-e326801b763f.png">
+
+![Screen Recording 2023-04-17 at 12 29 18 PM](https://user-images.githubusercontent.com/63217600/232381859-93eae7cd-ee07-4b8c-99f6-dfa593cdf56c.gif)
+
+
+
 ### 
