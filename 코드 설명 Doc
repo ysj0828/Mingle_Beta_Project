@@ -1,0 +1,10 @@
+Mingle_Beta_Project/Assets/Mingle/Scripts/Camera/CameraManager.cs
+
+Cinemachine 카메라에 정의된 이벤트
+
+public event Action<bool, int, Transform> TappedAvatar = delegate { };
+// public event Action<int, Vector3> TappedGround = delegate { };
+public event Action<Vector3> TappedGround = delegate { };
+public event Action<Vector3, Quaternion, Vector3, string, int> TappedObject = delegate { };
+public event Action TappedNull = delegate { };
+
