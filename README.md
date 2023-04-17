@@ -6,6 +6,8 @@
 
 담당 업무 스크립트는 Mingle_Beta_Project/Assets/Mingle/Scripts/Animation 혹은 Camera 혹은 Manager/PlayerActionManager.cs, PlayerManager.cs, PhotonManager.cs 에서 확인 할 수 있습니다.
 
+코딩 로직설명은 "코드설명 Doc.MD" 에서 확인할 수 있습니다.
+
 ## 캐릭터 애니메이션
 
 Mecanim Animation System을 활용
