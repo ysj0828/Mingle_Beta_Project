@@ -1022,7 +1022,6 @@ namespace Mingle
         [PunRPC]
         public void LoadAgit(string agitJson)
         {
-            if (!_roomManager) _roomManager = FindObjectOfType<RoomManager>();
             _roomManager.Load(agitJson);
         }
 
