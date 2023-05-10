@@ -75,7 +75,7 @@ Resources 폴더에 넣거나 Custom IPunPrefabPool을 생성하라고 한다.
 
 ![Screen Recording 2023-04-17 at 12 29 18 PM](https://user-images.githubusercontent.com/63217600/232381859-93eae7cd-ee07-4b8c-99f6-dfa593cdf56c.gif)
 
-밍글 프로젝트에선 개념은 같으나
+밍글 프로젝트에선 개념은 같으나 Addressable을 사용하여 필요한 에셋 다운로드 후 해당 에셋을 DefaultPool에 등록한 뒤 생성하는 방식
 
 
 ### 
